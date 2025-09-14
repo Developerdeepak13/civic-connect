@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#3F51B5" stroke="#FFFFFF" stroke-width="5"/>
+  
+  <!-- Building Icon -->
+  <rect x="60" y="70" width="80" height="90" fill="#FFFFFF" rx="5" ry="5"/>
+  
+  <!-- Windows -->
+  <rect x="70" y="85" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  <rect x="95" y="85" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  <rect x="115" y="85" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  
+  <rect x="70" y="110" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  <rect x="95" y="110" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  <rect x="115" y="110" width="15" height="15" fill="#3F51B5" rx="2" ry="2"/>
+  
+  <!-- Door -->
+  <rect x="90" y="135" width="20" height="25" fill="#3F51B5" rx="2" ry="2"/>
+  
+  <!-- Location Pin -->
+  <path d="M100 40 C85 40 75 50 75 65 C75 80 100 110 100 110 C100 110 125 80 125 65 C125 50 115 40 100 40 Z" fill="#FF5722"/>
+  <circle cx="100" cy="65" r="10" fill="#FFFFFF"/>
+  
+  <!-- Text -->
+  <text x="100" y="180" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CIVIC CONNECT</text>
+</svg>
